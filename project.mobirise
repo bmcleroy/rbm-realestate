@@ -50,11 +50,12 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "RBM Real Estate Services",
+        "meta_descr": "Bart McLeroy, Real Estate Consultant serving the greater Dallas / Fort Worth, Texas area.",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "meta_image": "@PROJECT_PATH@/assets/images/mbr-1920x1275.jpg"
       },
       "components": [
         {
