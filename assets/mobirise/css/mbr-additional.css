@@ -1,9 +1,3 @@
-@import url(https://fonts.googleapis.com/css?family=Rubik:300,300i,400,400i,500,500i,700,700i,900,900i&display=swap);
-
-
-
-
-
 body {
   font-family: Rubik;
 }
@@ -572,32 +566,6 @@ blockquote {
 }
 .mbr-form .input-group-btn button[type="submit"]:hover {
   box-shadow: 0 10px 40px 0 rgba(0, 0, 0, 0.2);
-}
-.form2 .form-control {
-  border-top-left-radius: 100px;
-  border-bottom-left-radius: 100px;
-}
-.form2 .input-group-btn a.btn {
-  border-top-left-radius: 0 !important;
-  border-bottom-left-radius: 0 !important;
-}
-.form2 .input-group-btn button[type="submit"] {
-  border-top-left-radius: 0 !important;
-  border-bottom-left-radius: 0 !important;
-}
-.form3 input[type="email"] {
-  border-radius: 100px !important;
-}
-@media (max-width: 349px) {
-  .form2 input[type="email"] {
-    border-radius: 100px !important;
-  }
-  .form2 .input-group-btn a.btn {
-    border-radius: 100px !important;
-  }
-  .form2 .input-group-btn button[type="submit"] {
-    border-radius: 100px !important;
-  }
 }
 @media (max-width: 767px) {
   .btn {
@@ -1923,15 +1891,22 @@ section.lazy-placeholder:after {
     justify-content: center;
   }
 }
-.cid-sGctASQBVh {
-  padding-top: 90px;
-  padding-bottom: 0px;
-  background-image: url("../../../assets/images/mbr-1920x1633.jpg");
+.cid-sIc1hgNszZ {
+  padding-top: 135px;
+  padding-bottom: 135px;
+  background-color: #000000;
 }
-.cid-sGctASQBVh H2 {
-  color: #ff3366;
+.cid-sIc1hgNszZ P {
+  color: #767676;
 }
-.cid-sGctASQBVh .mbr-section-subtitle {
+.cid-sIc1hgNszZ H1 {
+  color: #ea7a0f;
+}
+.cid-sIc1hgNszZ .mbr-text,
+.cid-sIc1hgNszZ .mbr-section-btn {
+  color: #ffffff;
+}
+.cid-sIc1hgNszZ H3 {
   color: #ffffff;
 }
 .cid-sGctATlhVB {
@@ -1957,33 +1932,42 @@ section.lazy-placeholder:after {
     width: 100% !important;
   }
 }
-.cid-sGctATx27s {
-  padding-top: 15px;
-  padding-bottom: 15px;
-  background-color: #ffffff;
-}
-.cid-sGctATx27s .mbr-text,
-.cid-sGctATx27s blockquote {
-  color: #767676;
-}
-.cid-sHon3Rvymy {
+.cid-sHon8Z7uI5 {
   padding-top: 15px;
   padding-bottom: 0px;
+  background-color: #efefef;
+}
+.cid-sHon8Z7uI5 .card-box {
   background-color: #ffffff;
+  padding: 2rem;
 }
-.cid-sHon3Rvymy .mbr-text {
+.cid-sHon8Z7uI5 h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
+}
+.cid-sHon8Z7uI5 p {
   color: #767676;
+  text-align: left;
 }
-.cid-sHon5PxhjY {
-  padding-top: 15px;
-  padding-bottom: 0px;
-  background-color: #ffffff;
+.cid-sHon8Z7uI5 .card-wrapper {
+  position: relative;
+  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
+  transition: box-shadow 0.3s;
 }
-.cid-sHon5PxhjY .mbr-text {
-  color: #767676;
+.cid-sHon8Z7uI5 .card-wrapper:hover {
+  box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
+  transition: box-shadow 0.3s;
 }
-.cid-sHon5PxhjY .mbr-text p {
-  background: #ffffff;
+.cid-sHon8Z7uI5 .card-img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  overflow: hidden;
+}
+.cid-sHon8Z7uI5 .card-title {
+  text-align: center;
 }
 .cid-sHomH7gFQU {
   padding-top: 15px;
@@ -2033,40 +2017,6 @@ section.lazy-placeholder:after {
     padding-bottom: 1.5rem;
   }
 }
-.cid-sHon8Z7uI5 {
-  padding-top: 15px;
-  padding-bottom: 0px;
-  background-color: #efefef;
-}
-.cid-sHon8Z7uI5 .card-box {
-  background-color: #ffffff;
-  padding: 2rem;
-}
-.cid-sHon8Z7uI5 h4 {
-  font-weight: 500;
-  margin-bottom: 0;
-  text-align: left;
-}
-.cid-sHon8Z7uI5 p {
-  color: #767676;
-  text-align: left;
-}
-.cid-sHon8Z7uI5 .card-wrapper {
-  position: relative;
-  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
-  transition: box-shadow 0.3s;
-}
-.cid-sHon8Z7uI5 .card-wrapper:hover {
-  box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
-  transition: box-shadow 0.3s;
-}
-.cid-sHon8Z7uI5 .card-img {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  overflow: hidden;
-}
 .cid-sHoxeOckJL {
   padding-top: 30px;
   padding-bottom: 30px;
@@ -2110,6 +2060,15 @@ section.lazy-placeholder:after {
 }
 .cid-sGctAVemB0 textarea.form-control {
   min-height: 188px;
+}
+.cid-sGctATx27s {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-color: #ffffff;
+}
+.cid-sGctATx27s .mbr-text,
+.cid-sGctATx27s blockquote {
+  color: #767676;
 }
 .cid-sGctAVAIXS .navbar {
   padding: .5rem 0;
